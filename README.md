@@ -1,1 +1,1 @@
-Hier staan de laatste versies. Aangegeven met versie nummer en datum
+Hier staan de laatste versies van mijn code. Puur als back-up.
